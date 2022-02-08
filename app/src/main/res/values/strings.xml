@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KotlinKoin</string>
+    <string name="randomize">Randomize</string>
 </resources>
